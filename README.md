@@ -50,7 +50,7 @@ Open a terminal, activate your virtual environment, and run:
 ```bash
 uvicorn main:app --reload
 ```
-The API will be available at `http://127.0.0.1:8001`. You can view the API documentation at `http://127.0.0.1:8000/docs`.
+The API will be available at `http://127.0.0.1:8001`. You can view the API documentation at `http://127.0.0.1:8001/docs`.
 
 ### 2. Start the Streamlit Frontend
 Open a second terminal, activate your virtual environment, and run:
